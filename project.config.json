@@ -12,7 +12,7 @@
 		"autoAudits": false
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.0.4",
+	"libVersion": "2.5.1",
 	"appid": "wx56ea06e0bf6d28d7",
 	"projectname": "imooc-demo",
 	"debugOptions": {
